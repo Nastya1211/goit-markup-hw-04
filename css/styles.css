@@ -92,6 +92,7 @@ img {
 }
 
 .link-nav.current::after {
+  background-color: #404bbf;
   position: absolute;
   border-radius: 2px;
   width: 100%;
@@ -304,6 +305,7 @@ img {
 }
 
 .social-links {
+  fill: #f4f4fd;
   width: 40px;
   height: 40px;
   border-radius: 50%;
@@ -438,6 +440,7 @@ img {
 }
 
 .footer-social-links {
+  fill: #f4f4fd;
   list-style-type: none;
   display: flex;
   gap: 16px;
